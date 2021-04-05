@@ -1,0 +1,1 @@
+nasm SWTASK.asm -fbin -o SWTASK.com
